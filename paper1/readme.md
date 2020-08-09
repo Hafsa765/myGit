@@ -4,4 +4,4 @@
 
 Carolin Brandt, Annibale Panichella, Andy Zaidman, Moritz Beller
 
->Venue:  Mon 29 Jun 2020 11:48 - 12:00 at MSR:Zoom - Quality "Chair(s): Raula Gaikovina Kula"
+>Venue:  Mon 29 Jun 2020 11:48 - 12:00 at MSR:Zoom - Quality "_Chair(s): Raula Gaikovina Kula_"
