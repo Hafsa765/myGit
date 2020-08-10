@@ -75,4 +75,4 @@ to be semi-structured.
     Validation Of Search Keywords:- Keywords logchunks provides are baased on experience of authors gained from analyzing around 800 build logs.
 
 LOGCHUNKS adavances the research field of build log analysis by introducing a benchmark to examine research contribution and opening various research possibilities that previously required tedious manual
- classification.
+classification.
