@@ -74,5 +74,5 @@ to be semi-structured.
     Other Information Chunks:- LogChunks can be extended with labels contained in build log like build infrastructure and more.
     Validation Of Search Keywords:- Keywords logchunks provides are baased on experience of authors gained from analyzing around 800 build logs.
 
-LOGCHUNKS adavances the research field of build log analysis by introducing a benchmark to examine research contribution and opening various research possibilities that previously required tedious manual
+LogChunks adavances the research field of build log analysis by introducing a benchmark to examine research contribution and opening various research possibilities that previously required tedious manual
 classification.
