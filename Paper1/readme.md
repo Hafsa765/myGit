@@ -39,16 +39,21 @@ LOG CHUNK ia actually collection of 797 labeled Travis CI build logs from 80 hig
 
  ### CREATION OF LOGChunks methods for gathering logs and mannual labeling processing:
 1:= LOG COLLECTION: Log creation contain Repository samplin, build sampling and log sampling.
-=>Repository sampling:- For log chunks GH Torent were queried from three most popular repositories to cover broad range of development lnguages from each of 30 propular languages from which repository 
-languages are like Microsoft/TypeScrip, git/git.
+
+=>Repository sampling:- For log chunks GH Torent were queried from three most popular repositories to cover broad range of development lnguages from each of 30 propular languages from which repository languages are like Microsoft/TypeScrip, git/git.
+
 =>Build Sampling:- To sample builds for logchunksten most recent builds of status were kept. 1000  builds per repostory were checked to ensure predictable termination of log collection.
+
 =>Log Sampling:- Three repositories collected build logs and discarded logs were inspected. 
 2:= Manual Labeling:- After collection firstb aunthor dwescribed why the build failed by manual labeling and assigned keywords and structural categories to each log chunk. 
+
 => Chunk That Describes Why The Build Failed:- The authoirb preserved whitespaces and special characters to detect the targeted substring and copied out first occurence about the failure of build for each repository. 
+
 => Search Keyboard: To extract the search word ten lines above and below and chunk were considered and labeler's task was to find description failure by noting down three strings they would search for 
 ("grep"). There were no limitatiuon made on strings.
+
 => Structural Category:- For labeling the structural categories chunk and sorrounding were presented from a repository to labeler for all logs.  
 
 Media
 
-https://pure.tudelft.nl/portal/files/71450840/paper.pdf
+https://pure.tudelft.ndl/portal/files/71450840/paper.pdf
