@@ -5,8 +5,6 @@
 András Kicsi, László Vidács, Tibor Gyimothy
 >Venue: Mon 29 Jun 2020 10:52 - 11:00 at MSR:Zoom2 - Refactoring & Testing **Chair(s): Mauricio Aniche**
 
-[Pdf link]( http://www.inf.u-szeged.hu/~lac/papers/MSR2020/MSR_2020_Data_Showcase_paper_11.pdf)
-
 [Paper Link](https://2020.msrconf.org/details/msr-2020-Data-showcase/5/TestRoutes-A-Manually-Curated-Method-Level-Dataset-for-Test-to-Code-Traceability "Click to view paper")
 
 **Bold Text**
