@@ -14,8 +14,8 @@
   # LINKS TO VIEW THE SUMMARIES
 
 
-## [paper 1](./Paper1/readme.md)
+## [paper1](./Paper1/readme.md)
 
-## [paper 2](.Paper2/readme.md)
+## [paper2](.Paper2/readme.md)
 
-## [paper 3](./Paper3/readme.md)
+## [paper3](./Paper3/readme.md)
