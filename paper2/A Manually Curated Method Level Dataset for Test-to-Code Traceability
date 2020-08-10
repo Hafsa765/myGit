@@ -1,6 +1,3 @@
-A Manually Curated Method Level Dataset for Test-to-Code Traceability
-
-
 software testing is one main aspect of software activities wbhich is used to uncover faults that lie within software. A term in ssoftware testing which is considered 
 good practice throughout world is called ecxtensive testing. In software enginnering there's a tem known as traceability wwhich is used for ability of tracing work, having large number of tests, and that problem of 
 tracing test unit under test is called test-to-code trceability. For uncovering tracability link auntomatic extraction methods are necessary.  main advantages of proper traceability information lie in method level
